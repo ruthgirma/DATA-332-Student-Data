@@ -14,7 +14,6 @@
 # Majors and total hours per week
 ## This graph shows the total number of hours per week needed to complete the majors
 ![Rplot04](https://github.com/ruthgirma/DATA-332-Student-Data/assets/159860827/a42db941-0daf-49f8-9551-6e398e478dc5)  
-this graph  
 
 
 
